@@ -1,0 +1,27 @@
+# cristobal-proyecto
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Proyecto Cristóbal</title>
+</head>
+
+<body>
+
+    <h1>Bienvenidos a mi proyecto</h1>
+
+    <p>Mi nombre es Cristóbal Espitia.</p>
+    <p>Soy estudiante de grado 11° de la Institución Educativa Decroly.</p>
+
+    <h2>Mis intereses</h2>
+    <ul>
+        <li>Fútbol</li>
+        <li>Tecnología</li>
+        <li>Programación</li>
+    </ul>
+
+    <h2>Imagen</h2>
+    <img src="https://via.placeholder.com/200" alt="Imagen de ejemplo">
+
+</body>
+</html>
+
